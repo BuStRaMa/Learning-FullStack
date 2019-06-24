@@ -10,14 +10,11 @@
   <li> לאחר מכן, ישנו עוד קורס בערוץ עם דוגמה של בניית אתר פשוט: <br>
   <a href="https://www.youtube.com/playlist?list=PL55RiY5tL51rv_vo3TM3Byu71RYchX_l_">Web Development - Beginner's Guide</a>
 
-  <li> מיקוד על ES6 <br>
-  <a href="https://www.youtube.com/watch?v=wwUbI2i_LZM">ES6 JavaScript Tutorial for Beginners</a>
-  
-  <li> <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub" > Object Creation in JavaScript </a>
-  
-  <li> <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm">Must-know JavaScript Features</a>
-
-  <li> <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84" > Functional programming in JavaScript </a>
+  <li> מיקוד על ES6 ו JavaScript
+  <a href="https://www.youtube.com/watch?v=wwUbI2i_LZM">ES6 JavaScript Tutorial for Beginners</a> <br>
+  <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub" > Object Creation in JavaScript </a> <br>
+  <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm">Must-know JavaScript Features</a> <br>
+  <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84" > Functional programming in JavaScript </a> <br>
  
 </ol>
 
