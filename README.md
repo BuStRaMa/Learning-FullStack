@@ -13,11 +13,12 @@
   <li> מיקוד על ES6 ו JavaScript <br>
   <a href="https://www.youtube.com/watch?v=wwUbI2i_LZM">ES6 JavaScript Tutorial for Beginners</a> <br>
   <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub" > Object Creation in JavaScript </a> <br>
-  <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm">Must-know JavaScript Features</a> <br>
+  <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm">Must-know JavaScript Features</a>
   <br>
   
   <li> TypeScript <br>
   <a href="https://www.typescriptlang.org/">TypeScript</a> <br>
+  <a href="https://www.typescriptlang.org/samples/index.html">הכוונה לframework</a> <br>
   
  
 </ol>
