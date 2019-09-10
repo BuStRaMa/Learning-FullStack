@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/watch?v=wwUbI2i_LZM">ES6 JavaScript Tutorial for Beginners</a> <br>
   <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub" > Object Creation in JavaScript </a> <br>
   <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm">Must-know JavaScript Features</a> <br>
-  <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84" > Functional programming in JavaScript </a> <br>
+  <br>
  
 </ol>
 
@@ -24,5 +24,7 @@
   <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide"> JavaScript guide </a>
     
   <li> <a href="https://javascript.info/"> The Modern JavaScript Tutorial </a>
+  
+  <li> <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84" > Functional programming in JavaScript </a> 
   
 </ul>
