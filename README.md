@@ -15,6 +15,10 @@
   <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub" > Object Creation in JavaScript </a> <br>
   <a href="https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm">Must-know JavaScript Features</a> <br>
   <br>
+  
+  <li> TypeScript <br>
+  <a href="https://www.typescriptlang.org/">TypeScript</a> <br>
+  
  
 </ol>
 
