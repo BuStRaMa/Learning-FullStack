@@ -18,6 +18,8 @@
   
   <li> TypeScript <br>
   <a href="https://www.typescriptlang.org/">TypeScript</a> <br>
+  <a href="https://channel9.msdn.com/Events/Build/2017/B8088/">TypeScript Into</a> <br>
+  <a href="https://www.youtube.com/watch?v=Au-rrY0afe4">TypeScript Into - New</a> <br>
   <a href="https://www.typescriptlang.org/samples/index.html">הכוונה לframework</a> <br>
   
  
